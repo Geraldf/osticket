@@ -63,5 +63,5 @@ UPDATE `%TABLE_PREFIX%form_entry_values` A1
 
 -- Finished with patch
 UPDATE `%TABLE_PREFIX%config`
-    SET `value` = '98ad7d550c26ac44340350912296e673'
+    SET `value` = 'eb3c85b34c05f21bdce7b075f5157929'
     WHERE `key` = 'schema_signature' AND `namespace` = 'core';
