@@ -21,3 +21,6 @@ nbproject/
 
 #exclude config file
 include/ost-config.php
+
+# exclude docker mysql date folder
+mysqldata/
